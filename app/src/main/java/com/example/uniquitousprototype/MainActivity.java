@@ -99,6 +99,7 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this, "내 소원은 윤규석 메이플 지우는 것", Toast.LENGTH_SHORT).show();
             }
         });
+        //test
 
     }
 
